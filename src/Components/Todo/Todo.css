@@ -1,0 +1,56 @@
+h1{
+    color: rgb(255, 255, 255);
+}
+body{
+   background-image: url(https://wallpaperaccess.com/full/1489353.jpg);
+   background-size: cover;
+    font-family: sans-serif;
+}
+.todo-container{
+    width: 400px;
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(6, 32, 53);
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 75px;
+    
+}
+ul{
+    padding: 0%;
+}
+
+ul li{
+    list-style: none;
+    text-align: left;
+    background-color: rgb(173, 231, 119);
+    color: rgb(90, 82, 82);
+    margin-bottom:7px;
+    padding: 3px;
+    border-radius:5px;
+    height: 30px;
+    font-weight: bold;
+    
+}
+.inputbox{
+   
+    border: 1pt solid silver;
+    border-radius: 7px;
+    background-color: azure;
+    padding-top: 20px;
+    margin-bottom: 10px;
+}
+input{
+    width: 90%;
+    padding: 5px;
+}
+button{
+    background-color: rgb(255, 6, 6);
+    color: white;
+    cursor: pointer;
+}
+.fas{
+    float: right;
+    padding: 5px;
+    cursor: pointer;
+}
